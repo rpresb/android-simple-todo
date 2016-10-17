@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Presba To-Do</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="unable_fetch_data">Unable to fetch data from server</string>
+    <string name="data_url">https://dl.dropboxusercontent.com/u/6890301/tasks.json</string>
+    <string name="task">Task</string>
+    <string name="enter_task_here">Enter task here</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="new_task">New Task</string>
+    <string name="save_task">Save Task</string>
+    <string name="remove_selected_tasks">Remove Selected Tasks</string>
+    <string name="x_tasks_deleted">%d tasks deleted</string>
+    <string name="x_task_deleted">%d task deleted</string>
+    <string name="task_is_pending">Task moved to pending</string>
+    <string name="task_completed">Task moved to done</string>
+</resources>
